@@ -26,3 +26,7 @@ az vm show --resource-group MyResourceGroup --name MyVm
 ```bash
 az group delete --name <nombre_del_grupo> --yes --no-wait
 ```
+### Listar recursos de un grupo de recursos
+```bash
+az resource list --resource-group <nombre_del_grupo> --output table
+```
