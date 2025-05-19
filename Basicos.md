@@ -1,4 +1,4 @@
-# Azure Cheat Sheet
+# Azure Cheat Sheet | Comandos Básicos
 
 ## Comandos de Azure CLI
 
