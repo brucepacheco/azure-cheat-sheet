@@ -6,3 +6,6 @@
 ```bash
 az login
 
+### Listar recursos
+```bash
+az resource list
