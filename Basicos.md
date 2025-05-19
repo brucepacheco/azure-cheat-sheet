@@ -22,3 +22,7 @@ az vm create --resource-group MyResourceGroup --name MyVm --image UbuntuLTS
 ```bash
 az vm show --resource-group MyResourceGroup --name MyVm
 ```
+### Eliniar grupo de recursos
+```bash
+az group delete --name <nombre_del_grupo> --yes --no-wait
+```
